@@ -1,4 +1,4 @@
 # Todoey ✓
 
-Demonstrates the usage of Realm in a Swift Project
+Demonstrates the usage of CoreData in a Swift Project
 
